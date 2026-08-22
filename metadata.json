@@ -1,0 +1,6 @@
+{
+  "name": "Voice RAG Ultra",
+  "description": "Voice-enabled Retrieval-Augmented Generation (RAG) system on MSMARCO-XI with ElevenLabs STT, interactive citation bubbles, 50+ question automated bulk-testing utility with accuracy/latency reporting, 5 chunking strategies, sub-200ms hybrid retrieval, and hallucination guardrails.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
